@@ -6,6 +6,7 @@ import java.util.Scanner;
 import java.util.TreeMap;
 import java.util.Scanner;
 import java.util.Map;
+import java.util.TreeSet;
 
 public class SimpleWordCounter {
     
